@@ -530,6 +530,8 @@ footer {
   }
 
   .view-10 {
+    display: flex;
+    justify-content: space-between;
     p {
       text-align: center;
       color: white;
