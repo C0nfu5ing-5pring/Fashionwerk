@@ -440,6 +440,12 @@ footer .view-9 button {
   border-radius: 30px;
   cursor: pointer;
 }
+footer .view-10 p {
+  text-align: center;
+  color: white;
+  font-size: 1em;
+  font-weight: 100;
+}
 
 @media (min-width: 900px) {
   main {
